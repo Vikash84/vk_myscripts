@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 17 11:15:52 2022
-
-@author: lillycummins
-
 Motive: given an abricate summary file, reformat file with highest hit per gene for phandango visualisation
 """
 
