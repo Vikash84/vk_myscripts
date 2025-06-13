@@ -1,4 +1,3 @@
-#!/home/vsingh/miniconda3/envs/assembly/bin/python
 #A quick python script for concatenating multiple gene alignments.
 #Useful for creating concatenated protein phylogenies.
 #Usage: python concat_alignments.py ./directory_with_alignments/*.fa
